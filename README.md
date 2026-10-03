@@ -1,13 +1,13 @@
-# dll-idols
+# vibin-dll
 
-Public helper DLLs for [idols Link](https://github.com/hqnatx/idols-Link).
+Public helper DLLs for VIBIN Launcher.
 
-These files are **not** shipped inside the idols Link installer. The launcher downloads them on first run from this repository and verifies each file against `manifest.json` (SHA256 + size).
+These files are **not** shipped inside the VIBIN Launcher installer. The launcher downloads them on first run from this repository and verifies each file against `manifest.json` (SHA256 + size).
 
 ## Layout
 
 - `dlls/` — Windows x64 DLL files
-- `manifest.json` — integrity metadata consumed by idols Link
+- `manifest.json` — integrity metadata consumed by VIBIN Launcher
 - `scripts/update-manifest.ps1` — regenerate `manifest.json` after DLL changes
 
 ## Update workflow
@@ -29,4 +29,4 @@ These files are **not** shipped inside the idols Link installer. The launcher do
 
 ## License
 
-Same distribution terms as idols Link — for use with supported idols/Fortnite private builds only.
+Same distribution terms as VIBIN Launcher — for use with supported VIBIN/Fortnite private builds only.
