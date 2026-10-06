@@ -21,8 +21,8 @@
             "size": 1344512
         },
         "Potassium.dll": {
-            "sha256": "7514eb710e11d690eb5665f8e8a60df229f5744d563e5c4b5d13cd6b4bdc73b8",
-            "size": 5670912
+            "sha256": "596725a515fe2c0df79f396279ba510219cd1581db79783558c32b983e693c31",
+            "size": 5702144
         },
         "beta-iriftols.dll": {
             "sha256": "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
@@ -37,8 +37,8 @@
             "size": 21504
         },
         "PotassiumClient.dll": {
-            "sha256": "0930e1377260570c53bd7dcb9109a7133df305655d3a6d27147951382b69edf7",
-            "size": 927744
+            "sha256": "ba8937581cb929198b3f61de3f6d30bfc9aa3d5800640692f6c6413040526245",
+            "size": 979456
         },
         "retrac_reboot_x_auth.dll": {
             "sha256": "32a772e1dea9e0f1982742e91589b455df9a26eb3502fa61f1c7aa584200a932",
