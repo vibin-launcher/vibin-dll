@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.11b",
+  "version": "2026.10.14",
   "repository": "vibin-launcher/vibin-dll",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/vibin-launcher/vibin-dll/main/dlls",
@@ -21,8 +21,8 @@
       "size": 1344512
     },
     "Potassium.dll": {
-      "sha256": "397a64d996a0bb51e0e37b181165859765e994e229e207e7dd82f6dfb6afdbe2",
-      "size": 7817728
+      "sha256": "cd7ad96444341e72c6d41533b66c390ebe5fa82f7e126bc58138a11df5db1ddb",
+      "size": 6459392
     },
     "beta-iriftols.dll": {
       "sha256": "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
