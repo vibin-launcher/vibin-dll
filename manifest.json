@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.15",
+  "version": "2026.10.19",
   "repository": "vibin-launcher/vibin-dll",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/vibin-launcher/vibin-dll/main/dlls",
@@ -37,8 +37,8 @@
       "size": 21504
     },
     "PotassiumClient.dll": {
-      "sha256": "c261e8590df814284cd9d575bbf202e33aba53492732af9dabfbc58389e27c99",
-      "size": 979456
+      "sha256": "0fa2f1e7422f555b0edb5e82d8b72d1a1ccaba9457e10f6e3338d2dfb6c785db",
+      "size": 985088
     },
     "retrac_reboot_x_auth.dll": {
       "sha256": "32a772e1dea9e0f1982742e91589b455df9a26eb3502fa61f1c7aa584200a932",

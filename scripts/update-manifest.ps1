@@ -39,9 +39,9 @@ if (Test-Path -LiteralPath $injectHelper) {
 
 $manifest = [ordered]@{
   version    = $Version
-  repository = "hqnatx/dll-idols"
+  repository = "vibin-launcher/vibin-dll"
   branch     = "main"
-  baseUrl    = "https://raw.githubusercontent.com/hqnatx/dll-idols/main/dlls"
+  baseUrl    = "https://raw.githubusercontent.com/vibin-launcher/vibin-dll/main/dlls"
   files      = $files
 }
 
