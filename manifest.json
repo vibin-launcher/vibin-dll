@@ -8,18 +8,6 @@
       "sha256": "16114fa57b06e0a12720b25a9859c9054d6053b163ecb1eb1713d08b5b74419b",
       "size": 673280
     },
-    "Magnesium.dll": {
-      "sha256": "68a22edff12b9026b9652278b2874a647010f9bd473539415e9c64f84fff1898",
-      "size": 2085888
-    },
-    "idols.dll": {
-      "sha256": "cf234247f850111e05db4dc3424ba4d592cf83024b2382753f7a36b798e058f0",
-      "size": 1323520
-    },
-    "idols_respawn.dll": {
-      "sha256": "039a2d50d644a10ebfe620bac129c2f26efba80f241dcc8702eed74624fd93ae",
-      "size": 1344512
-    },
     "Potassium.dll": {
       "sha256": "df743823c8684e5b708deaaf8a5f50addba6882dec45bbc81ebe743b4723b908",
       "size": 6508032
@@ -43,10 +31,6 @@
     "retrac_reboot_x_auth.dll": {
       "sha256": "32a772e1dea9e0f1982742e91589b455df9a26eb3502fa61f1c7aa584200a932",
       "size": 97792
-    },
-    "idols_creative.dll": {
-      "sha256": "d7ce6c17afd2ed0d3de43ecbd2ce8c7e949da744154ab806124755b3f6d03c30",
-      "size": 1343488
     },
     "Tellurium.dll": {
       "sha256": "0b4861cbecef2df73b3316d972db7046952cc279eb002daae4cbf0eb2e2d5be2",
