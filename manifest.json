@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.31",
+  "version": "2026.11.12",
   "repository": "vibin-launcher/vibin-dll",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/vibin-launcher/vibin-dll/main/dlls",
@@ -17,8 +17,8 @@
       "size": 338944
     },
     "discord-rpc.dll": {
-      "sha256": "70fa23259ba76a45d960135a7f51e2c61c4233575742b8176f5b80da1886a3fe",
-      "size": 202240
+      "sha256": "7767e31eacadbcea2d856b3719f04575fefa81d8023425a8391529e00ddae70c",
+      "size": 150528
     },
     "Edit on Release & Reset on Release.dll": {
       "sha256": "e31232f9041b1ec8400fa27f516f04715ebd3b188b6707e09fe3d68ae57bf908",
