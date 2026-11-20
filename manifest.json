@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.20",
+  "version": "2026.11.20.2",
   "repository": "vibin-launcher/vibin-dll",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/vibin-launcher/vibin-dll/main/dlls",
@@ -33,8 +33,8 @@
       "size": 97792
     },
     "Tellurium.dll": {
-      "sha256": "a1fa95014cd2d2c0eaf5d916396d77776a6c338ed92499776fd18fe597c763c6",
-      "size": 18432
+      "sha256": "db8a20c01cd9c62cbdebd4d29700c951c76688c1e5f05b8b3bae5f48cc58db85",
+      "size": 17408
     },
     "console_rebootv3.dll": {
       "sha256": "a4873bd206a1bbf05eea868d28f4850942fed8eb55a465ecc05604c5bc9c43c7",
