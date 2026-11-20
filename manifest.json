@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.19.2",
+  "version": "2026.11.20",
   "repository": "vibin-launcher/vibin-dll",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/vibin-launcher/vibin-dll/main/dlls",
@@ -9,8 +9,8 @@
       "size": 673280
     },
     "Potassium.dll": {
-      "sha256": "fa7381e9be6451790af221c6ddde72f0fcd70fd0e27e909fd065aacf980e7b9f",
-      "size": 6702592
+      "sha256": "78212391943feeff761c4de40a1d7793e8c4a8094720b3a73d72b4fc6d8608b9",
+      "size": 6742528
     },
     "beta-iriftols.dll": {
       "sha256": "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
@@ -25,8 +25,8 @@
       "size": 21504
     },
     "PotassiumClient.dll": {
-      "sha256": "860b4ff85413d3c80906f942b73fe3c9e6afa0590c43a53aeefa9f58f9f3a1fd",
-      "size": 1013248
+      "sha256": "693aa30ca1325b78bec291aa7a97e323351daa8c13a09310a7e3be3e42fbdf09",
+      "size": 1017856
     },
     "retrac_reboot_x_auth.dll": {
       "sha256": "32a772e1dea9e0f1982742e91589b455df9a26eb3502fa61f1c7aa584200a932",
@@ -39,10 +39,6 @@
     "console_rebootv3.dll": {
       "sha256": "a4873bd206a1bbf05eea868d28f4850942fed8eb55a465ecc05604c5bc9c43c7",
       "size": 327168
-    },
-    "retrac_unreal_engine_patcher.dll": {
-      "sha256": "efe4f5e6250381e461ab005b182eec5011fecc7f00ce31ecc4311f0b51088bd0",
-      "size": 86528
     },
     "rebootV3_after_s20.dll": {
       "sha256": "c6b21bad1efa332db00b2704a6b1d8fa4c51ebd9525e94df02958a2ab4fdbce1",
@@ -59,6 +55,10 @@
     "memory.dll": {
       "sha256": "09678b68e73eeb4463e3b442e0982eba7ff08b07df0614b12a02ed4c9f17fb7a",
       "size": 13824
+    },
+    "retrac_unreal_engine_patcher.dll": {
+      "sha256": "efe4f5e6250381e461ab005b182eec5011fecc7f00ce31ecc4311f0b51088bd0",
+      "size": 86528
     }
   },
   "tools": {
