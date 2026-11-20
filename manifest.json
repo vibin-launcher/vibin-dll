@@ -25,16 +25,16 @@
       "size": 21504
     },
     "PotassiumClient.dll": {
-      "sha256": "693aa30ca1325b78bec291aa7a97e323351daa8c13a09310a7e3be3e42fbdf09",
-      "size": 1017856
+      "sha256": "f46d96484a7b47ddef98b63e58bf04f56201a617418b906b5abfd0d58e4c7e05",
+      "size": 1018368
     },
     "retrac_reboot_x_auth.dll": {
       "sha256": "32a772e1dea9e0f1982742e91589b455df9a26eb3502fa61f1c7aa584200a932",
       "size": 97792
     },
     "Tellurium.dll": {
-      "sha256": "0b4861cbecef2df73b3316d972db7046952cc279eb002daae4cbf0eb2e2d5be2",
-      "size": 16384
+      "sha256": "a1fa95014cd2d2c0eaf5d916396d77776a6c338ed92499776fd18fe597c763c6",
+      "size": 18432
     },
     "console_rebootv3.dll": {
       "sha256": "a4873bd206a1bbf05eea868d28f4850942fed8eb55a465ecc05604c5bc9c43c7",
