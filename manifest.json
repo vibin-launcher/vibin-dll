@@ -1,5 +1,5 @@
 {
-  "version": "2026.11.21",
+  "version": "2026.11.26",
   "repository": "vibin-launcher/vibin-dll",
   "branch": "main",
   "baseUrl": "https://raw.githubusercontent.com/vibin-launcher/vibin-dll/main/dlls",
@@ -9,8 +9,8 @@
       "size": 673280
     },
     "Potassium.dll": {
-      "sha256": "4a6fb0bfdb991d4a1dedbd5629b7108594a4670481d07aecf33b2d9816b2c6c3",
-      "size": 6742528
+      "sha256": "26dd5fe7a5015945aac8e70ecc9f2d699504af8538b5754555dcbe16fa1ffc92",
+      "size": 7222784
     },
     "beta-iriftols.dll": {
       "sha256": "f2a8e861d5866063b62e37af46596b07a25052665efada0a6d9616060f6b68a4",
@@ -25,16 +25,16 @@
       "size": 21504
     },
     "PotassiumClient.dll": {
-      "sha256": "ac4f6c555a529d8ff11d65d4445ce82b40bbafec31bb35fd4ab909d84ab79fdb",
-      "size": 1105920
+      "sha256": "f5d0e523375349ae943c3af893408be91135320bd05c0c06008f46f52af1abc2",
+      "size": 1121792
     },
     "retrac_reboot_x_auth.dll": {
       "sha256": "32a772e1dea9e0f1982742e91589b455df9a26eb3502fa61f1c7aa584200a932",
       "size": 97792
     },
     "Tellurium.dll": {
-      "sha256": "db8a20c01cd9c62cbdebd4d29700c951c76688c1e5f05b8b3bae5f48cc58db85",
-      "size": 17408
+      "sha256": "d31d4145d8d374c525f98a5061481ab56bd7e1721f2884c8f9a8546c84a3a69c",
+      "size": 24064
     },
     "console_rebootv3.dll": {
       "sha256": "a4873bd206a1bbf05eea868d28f4850942fed8eb55a465ecc05604c5bc9c43c7",
